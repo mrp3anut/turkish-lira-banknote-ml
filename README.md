@@ -1,7 +1,7 @@
 # turkish-lira-banknote-ml
 Various ml models to classify Turkish Lira banknotes.
 
-You can also find the data here.
+You can find the data here.
 https://drive.google.com/drive/folders/1EENa3NYWz_j6TxDvVVYJRPtLjA43awsW?usp=sharing
 
 Use the Data_import notebook for preprocessing.
